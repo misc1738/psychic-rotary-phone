@@ -1,5 +1,28 @@
-# 💫 About Me:
-I'm currently working on:<br><br>Implementing a zero-trust security model for our organization.<br>Developing a robust incident response plan to minimize downtime and data loss in case of a cyberattack.<br>Researching and evaluating new cybersecurity tools and technologies to enhance our defenses.<br>I'm looking to collaborate on:<br><br>Open-source projects related to cybersecurity, such as vulnerability scanning tools or intrusion detection systems.<br>Community initiatives focused on raising awareness about cybersecurity threats and best practices.<br>Joint research projects with other cybersecurity professionals to explore emerging threats and develop innovative solutions.<br>I'm looking for help with:<br><br>Understanding the latest advancements in AI-powered threat intelligence and detection.<br>Staying current with the evolving threat landscape and emerging attack vectors.<br>Troubleshooting complex cybersecurity issues and finding effective solutions.<br>I'm currently learning:<br><br>Advanced techniques in threat hunting and incident response.<br>Ethical hacking methodologies to better understand attacker tactics and techniques.<br>Cloud security best practices to protect our organization's cloud infrastructure.<br>Ask me about:<br><br>Common cybersecurity threats and how to mitigate them.<br>Best practices for securing your home network and devices.<br>Tips for creating strong, unique passwords.<br>The importance of regular security audits and vulnerability assessments.
+💫 About Me:
+I'm currently working on:
+🚨 Developing a robust incident response plan to minimize downtime and data loss in case of a cyberattack.
+🔍 Researching and evaluating new cybersecurity tools and technologies to enhance our defenses.
+
+I'm looking to collaborate on:
+🤝 Open-source projects related to cybersecurity, such as vulnerability scanning tools or intrusion detection systems.
+🌐 Community initiatives focused on raising awareness about cybersecurity threats and best practices.
+🧠 Joint research projects with other cybersecurity professionals to explore emerging threats and develop innovative solutions.
+
+I'm looking for help with:
+🤖 Understanding the latest advancements in AI-powered threat intelligence and detection.
+📈 Staying current with the evolving threat landscape and emerging attack vectors.
+🛠️ Troubleshooting complex cybersecurity issues and finding effective solutions.
+
+I'm currently learning:
+🔎 Advanced techniques in threat hunting and incident response.
+🕵️‍♂️ Ethical hacking methodologies to better understand attacker tactics and techniques.
+☁️ Cloud security best practices to protect our organization's cloud infrastructure.
+
+Ask me about:
+⚠️ Common cybersecurity threats and how to mitigate them.
+🏠 Best practices for securing your home network and devices.
+🔑 Tips for creating strong, unique passwords.
+🔍 The importance of regular security audits and vulnerability assessments.
 
 
 # 💻 Tech Stack:
